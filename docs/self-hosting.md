@@ -90,8 +90,8 @@ type: Opaque
 stringData:
   renovate-platform: 'github'
   renovate-endpoint: 'https://github.company.com/api/v3'
-  renovate-token: 'your-github-enterprise-renovate-user-token'
-  github-token: 'any-personal-user-token-for-github-com-for-fetching-changelogs'
+  renovate-token: '8b220dfa-581c-4b27-8734-b34556f6dd8c'
+  github-token: 'github_14XOgKzorg7t8Pg6HKsXQF2GWroiU2cd2iejnRhp'
   renovate-autodiscover: 'true'
 ```
 
