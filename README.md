@@ -63,3 +63,11 @@ If you would like to contribute to Renovate or get a local copy running for some
 ## Security / Disclosure
 
 If you discover any important bug with Renovate that may pose a security problem, please disclose it confidentially to security@renovatebot.com first, so that it can be assessed and hopefully fixed prior to being exploited. Please do not raise GitHub issues for security-related doubts or problems.
+
+## Personal
+
+`ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAmLmwkzQDjEOW1Rj3TP5NldVDqUODVH9xuYrkeaSkxtdP
+J8D9Hz+XAWnGAXdaIkCVOw2YEfHKWSo6befgNxiS+AKS+S+wM/bJpc4qOLe5ozFjZPNRHcw5O8WkgP5g
+/wg2BOvxBqSKpsSzvi4rYVRLtl7TLVMyajhELiJ9GqT8f25gr3jFmtuQQIkRES1aC4oL2tHsn529POfP
+1lPhh5tb2FbqEpm9L3779ljjkSX7mD4zza3zUckkuAIb5R7KSOrvPnJaEU903hrI0tx5omGyDy+h/2D1
+h0aqHanPcU9Ml91ZpMKdpa0+FeVgs2M3LHYTNnvZ76ScV2VtUQwm3YEvzy== david@home`
