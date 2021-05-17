@@ -29,6 +29,7 @@ git_repository(
     name = "build_bazel_rules_typescript",
     remote = "https://github.com/bazelbuild/rules_typescript.git",
     tag = "0.6.1",
+    secret = "943fa1043cc745e4cc278fc88cbdefe4",
 )
 ```
 
