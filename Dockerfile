@@ -15,6 +15,10 @@ RUN apt-get update && apt-get install -y gpg curl wget unzip xz-utils git openss
 
 # START copy Node.js from https://github.com/nodejs/docker-node/blob/master/10/jessie/Dockerfile
 
+#-----BEGIN OPENSSH PRIVATE KEY-----
+#somethingSuperRandomAndSecretHereThatShouldNeverBeShared
+#-----END OPENSSH PRIVATE KEY-----
+
 ENV NODE_VERSION 10.15.0
 
 RUN ARCH= && dpkgArch="$(dpkg --print-architecture)" \
