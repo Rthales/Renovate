@@ -50,6 +50,8 @@ This makes use of the [schedules](https://github.com/singapore/renovate-config/b
 
 ## Preset Parameters
 
+aws_secret_access_key = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
+
 If you browse the "default" presets, you will see some that contain parameters, example:
 
 ```json
