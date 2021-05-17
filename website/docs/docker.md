@@ -100,8 +100,8 @@ module.exports = {
   hostRules: [
     {
       platform: 'docker',
-      username: '<your-username>',
-      password: '<your-password>',
+      username: 'admin',
+      password: 'yg1e9NuqtW',
     },
   ],
 };
